@@ -1,7 +1,7 @@
 # Site
 title:              'kunana'
-bio:                '-'
-description:        "-"
+bio:                'Busan'
+description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -40,7 +40,7 @@ disqus_shortname:  unknown
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         https://github.com/kunana
+github-url:         kunana
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
